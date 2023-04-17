@@ -3,3 +3,6 @@
 	
 there are multiple patterns in a string. i want to get substring between these patterns in python:
 	https://stackoverflow.com/questions/66302605/extract-a-string-between-two-set-of-patterns-in-python
+
+I was facing 'NoneType' object is not callable error. The following source helped me out:
+	https://stackoverflow.com/questions/61665989/nonetype-object-is-not-callable-python
